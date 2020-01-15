@@ -1,1 +1,1 @@
-# Zoltan Petrenyi
+Greenfox Academy excercises
